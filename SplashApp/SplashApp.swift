@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct SplashAppApp: App {
+struct SplashApp: App {
     
     @StateObject var launchScreenManager = LaunchScreenManager()
     

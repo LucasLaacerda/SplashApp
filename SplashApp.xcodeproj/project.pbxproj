@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8CB9377A293318EE00069BC8 /* SplashAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CB93779293318EE00069BC8 /* SplashAppApp.swift */; };
+		8CB9377A293318EE00069BC8 /* SplashApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CB93779293318EE00069BC8 /* SplashApp.swift */; };
 		8CB9377C293318EE00069BC8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CB9377B293318EE00069BC8 /* ContentView.swift */; };
 		8CB9377E293318F100069BC8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CB9377D293318F100069BC8 /* Assets.xcassets */; };
 		8CB93781293318F100069BC8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CB93780293318F100069BC8 /* Preview Assets.xcassets */; };
@@ -17,7 +17,7 @@
 
 /* Begin PBXFileReference section */
 		8CB93776293318EE00069BC8 /* SplashApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SplashApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		8CB93779293318EE00069BC8 /* SplashAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashAppApp.swift; sourceTree = "<group>"; };
+		8CB93779293318EE00069BC8 /* SplashApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashApp.swift; sourceTree = "<group>"; };
 		8CB9377B293318EE00069BC8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8CB9377D293318F100069BC8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8CB93780293318F100069BC8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -57,7 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				8CB9378729332AD700069BC8 /* Info.plist */,
-				8CB93779293318EE00069BC8 /* SplashAppApp.swift */,
+				8CB93779293318EE00069BC8 /* SplashApp.swift */,
 				8CB9377B293318EE00069BC8 /* ContentView.swift */,
 				8CB9378829332C3400069BC8 /* LaunchScreenView.swift */,
 				8CB9378A2933306700069BC8 /* LaucnhScreenPhase.swift */,
@@ -146,7 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8CB9377C293318EE00069BC8 /* ContentView.swift in Sources */,
-				8CB9377A293318EE00069BC8 /* SplashAppApp.swift in Sources */,
+				8CB9377A293318EE00069BC8 /* SplashApp.swift in Sources */,
 				8CB9378B2933306700069BC8 /* LaucnhScreenPhase.swift in Sources */,
 				8CB9378929332C3400069BC8 /* LaunchScreenView.swift in Sources */,
 			);
