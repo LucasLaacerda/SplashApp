@@ -1,4 +1,4 @@
 # SplashApp
 Splash like Twitter App
 
-![Screen Shot 2022-11-27 at 12 10 36](https://user-images.githubusercontent.com/51750552/204142548-af41cffb-392f-451c-a2f9-14f7c7cf814f.png)
+![Simulator Screen Shot - iPhone 12 Pro - 2022-11-27 at 12 14 14](https://user-images.githubusercontent.com/51750552/204142752-1c287073-cab8-4978-9089-e9a2ac4e8b02.png)
