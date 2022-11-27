@@ -7,7 +7,7 @@
 
 import Foundation
 
-enum LaucnhScreenPhase {
+enum LaunchScreenPhase {
     case first
     case second
     case completed
@@ -15,7 +15,7 @@ enum LaucnhScreenPhase {
 
 final class LaunchScreenManager: ObservableObject {
     
-    @Published private(set) var state: LaucnhScreenPhase = .first
+    @Published private(set) var state: LaunchScreenPhase = .first
     
     func dimiss(){
         self.state = .second
